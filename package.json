@@ -4,8 +4,9 @@
   "description": "friend graph",
   "main": "index.js",
   "scripts": {
-    "setup":"npm i -g jade",
+    "setup":"npm i -g jade http-server",
     "watch":"jade *.jade -w -P",
+    "start":"http-server -o",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
