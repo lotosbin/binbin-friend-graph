@@ -1,0 +1,19 @@
+{
+  "name": "binbin-friend-graph",
+  "version": "1.0.0",
+  "description": "friend graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lotosbin/binbin-friend-graph.git"
+  },
+  "author": "lotosbin@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lotosbin/binbin-friend-graph/issues"
+  },
+  "homepage": "https://github.com/lotosbin/binbin-friend-graph#readme"
+}
